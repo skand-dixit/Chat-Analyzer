@@ -1,0 +1,5 @@
+streamlit
+wordcloud
+emoji
+matplotlib
+urlextractor
